@@ -1,5 +1,5 @@
 <h1 align="center" >
-<img src="https://user-images.githubusercontent.com/102265620/231877583-f4fb66e9-b502-4e49-b256-3b170a7ea0be.png" width="45" height="45"/>
+<img src="https://user-images.githubusercontent.com/102265620/231919219-1afff750-9c8b-4773-83f1-8dc69e4893e2.png" width="50" height="50"/>
 Projeto Labenu System
 <img src="https://user-images.githubusercontent.com/102265620/231877695-2cb6c96a-2b2b-4806-967a-48929ffc4046.png" width="50" height="50"/>
 <hr>
