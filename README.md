@@ -135,7 +135,7 @@ Endpoint que recebe através da "query" um dos 12 signos do Zodíaco e então re
 
 <hr>
 <h3>
-<img src="https://user-images.githubusercontent.com/102265620/230520839-647a68bd-8a3d-4c4f-890f-e3edbbadcb19.png" width="30" height="30"/> Técnicas e tecnologias utilizadas
+<img src="https://user-images.githubusercontent.com/102265620/231918447-10e51bc6-f7b3-4991-945b-f2f681a9490c.gif" width="40" height="40"/> Técnicas e tecnologias utilizadas
 <br></br>
 
 - ``Typescript`` <img src="https://user-images.githubusercontent.com/102265620/230519766-2b4903ad-94f7-48e7-b949-4fc981ee519d.png" width="19" height="19"/>
@@ -144,7 +144,7 @@ Endpoint que recebe através da "query" um dos 12 signos do Zodíaco e então re
 </h3>
 <hr>
 <h3>
-<img src="https://user-images.githubusercontent.com/102265620/230521150-79ed8394-6e7e-4188-80e9-d726e1500137.png" width="30" height="30"/>Autor:
+<img src="https://user-images.githubusercontent.com/102265620/231918732-0b45ddb5-bcc4-47e7-9b1f-05dff210534e.png" width="20" height="20"/>Autor:
 </h3>
 
 | [<img src="https://avatars.githubusercontent.com/u/102265620?v=4" width=115><br><sub>Renato Alexandrini</sub>](https://github.com/RenatoAlexandrini) | 
