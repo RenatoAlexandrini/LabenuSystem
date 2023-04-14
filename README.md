@@ -57,78 +57,77 @@ Endpoint que retorna uma lista com todas as turmas que já iniciaram o curso, po
 </h5>
 
 <h3>
-<img src="" width="30" height="30"/> Mudar turma de módulo:
+<img src="https://user-images.githubusercontent.com/102265620/231908641-d4496610-81ba-4705-a015-33aa867de5a2.png" width="35" height="35"/> Mudar turma de módulo:
 </h3>
 <h5>
 Endpoint que drecebe por "params" o id de uma turma e faz a verificação se a turma existe no banco de dados. Então recebe através da "query" o número do novo módulo, que deverá ser um número de 1 a 6 onde não é possível atribuir o valor de um módulo abaixo do módulo atual.
 </h5>
 
 <h3>
-<img src="" width="30" height="30"/> Buscar todas as pessoas da mesma turma:
+<img src="https://user-images.githubusercontent.com/102265620/231910415-ae7be7e4-1721-4984-bccf-f669cfdcf076.png" width="35" height="35"/> Buscar todas as pessoas da mesma turma:
 </h3>
 <h5>
 Endpoint que recebe o id de uma turma através da "query", verifica se a turma existe, então exibe uma relação de todos os instrutores e estudantes desta turma.
 </h5>
 
-
 <h3>
-<img src="" width="30" height="30"/> Cadastrar instrutor:
+<img src="https://user-images.githubusercontent.com/102265620/231911041-9e76f5d3-fcf0-40b8-9724-e91eb25b7380.png" width="35" height="35"/> Cadastrar instrutor:
 </h3>
 <h5>
 Endpoint que recebe através de um "body" um nome, um email uma data de nascimento e um array com as especialidades do instrutor, então antes da confirmação da criação, verifica se o email cadastrado já existe no banco de dados e também se as especialidades correspondem a uma das seis especialidade existentes no banco de dados.
 </h5>
 
 <h3>
-<img src="" width="30" height="30"/> Mudar instrutor de turma:
+<img src="https://user-images.githubusercontent.com/102265620/231911251-ca40f563-7682-4104-a3a0-7808871fd633.png" width="35" height="35"/> Mudar instrutor de turma:
 </h3>
 <h5>
-Endpoint que recebe através do "params" o id de um instrutor, fazendo a verificação se o mesmo está cadastrado no banco de dados. Enãto recebe o nome de uma turma através da "query" fazendo a verificação se a turma existe no banco de dados, para finalmente atribuir a nova turma ao instrutor.
+Endpoint que recebe através do "params" o id de um instrutor, fazendo a verificação se o mesmo está cadastrado no banco de dados. Então recebe o nome de uma turma através da "query" fazendo a verificação se a turma existe no banco de dados, para finalmente atribuir a nova turma ao instrutor.
 </h5>
 
 <h3>
-<img src="" width="30" height="30"/> Buscar todos os instrutores:
+<img src="https://user-images.githubusercontent.com/102265620/231912845-a452669b-2803-443a-9bd4-ca610f2475e2.png" width="35" height="35"/> Buscar todos os instrutores:
 </h3>
 <h5>
 Endpoint que retorna uma lista com todos os dados dos instrutores, incluindo as especialidades de cada um deles.
 </h5>
 
 <h3>
-<img src="" width="30" height="30"/> Buscar todos os instrutores especialistas em Programação Orientada a Objetos:
+<img src="https://user-images.githubusercontent.com/102265620/231915116-770e6a30-4015-4a89-b7e2-00ed1c60abee.png" width="35" height="35"/> Buscar todos os instrutores especialistas em Programação Orientada a Objetos:
 </h3>
 <h5>
 Endpoint que retorna todos os Instruturos que possuem a especialidade de Programação Orientada a Objetos.
 </h5>
 
 <h3>
-<img src="" width="30" height="30"/> Cadastrar estudante:
+<img src="https://user-images.githubusercontent.com/102265620/231916670-9e12f8f3-707a-4cb7-9a43-a11e106cb633.png" width="35" height="35"/> Cadastrar estudante:
 </h3>
 <h5>
 Endpoint que recebe através de um "body" um nome, um email uma data de nascimento e um array com os hobbies de um estudante, fazendo a verificação se o email informado já foi cadastrado anteriormente no banco de dados. Então verifica os hobbies informados, cadastrando aqueles que não correspondem a nenhum hobby cadastrado anteriormente, antes da confirmação da criação do novo estudante.
 </h5>
 
 <h3>
-<img src="" width="30" height="30"/> Mudar estudante de turma:
+<img src="https://user-images.githubusercontent.com/102265620/231916771-1987928e-9898-42cf-9487-4777e1dcce6a.png" width="30" height="30"/> Mudar estudante de turma:
 </h3>
 <h5>
 Endpoint que recebe através do "path params" o id de um estudante, fazendo a verificação se ele está cadastrado no banco de dados. Enãto recebe o nome de uma turma através da "query" fazendo a verificação se a turma existe no banco de dados, para finalmente atribuir a nova turma ao estudante.
 </h5>
 
 <h3>
-<img src="" width="30" height="30"/> Buscar estudantes através do nome:
+<img src="https://user-images.githubusercontent.com/102265620/231916834-e69c05ec-7f33-4dbe-a400-3e2c2af620c7.png" width="30" height="30"/> Buscar estudantes através do nome:
 </h3>
 <h5>
 Endpoint que recebe através da "query" um termo então retorna todos os estudantes que possuam este termo em qualquer parte do nome ou sobrenome.
 </h5>
 
 <h3>
-<img src="" width="30" height="30"/> Buscar estudantes atrvés de um hobby:
+<img src="https://user-images.githubusercontent.com/102265620/231917323-b7332df0-e554-427b-9302-6703f36cc501.png" width="30" height="30"/> Buscar estudantes atrvés de um hobby:
 </h3>
 <h5>
 Endpoint que recebe através da "query" um hobby, então verifica se o hobby informado está cadastrado no banco de dados, para então retornar todos os estudantes que possuem este hobby atribuído.
 </h5>
 
 <h3>
-<img src="" width="30" height="30"/> Buscar todas as pessoas através de um signo do Zodíaco:
+<img src="https://user-images.githubusercontent.com/102265620/231917921-ada60476-2835-4d74-ad7d-06362b1ac75f.png" width="30" height="30"/> Buscar todas as pessoas através de um signo do Zodíaco:
 </h3>
 <h5>
 Endpoint que recebe através da "query" um dos 12 signos do Zodíaco e então retorna todas as pessoas cadastradas, entre estudantes e intrutores são do signo iformado. Neste Endpoint não existe separação entre estudantes e instrutores.
