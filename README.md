@@ -2,6 +2,10 @@
 <img src="https://user-images.githubusercontent.com/102265620/231919219-1afff750-9c8b-4773-83f1-8dc69e4893e2.png" width="50" height="50"/>
 Projeto Labenu System
 <img src="https://user-images.githubusercontent.com/102265620/231877695-2cb6c96a-2b2b-4806-967a-48929ffc4046.png" width="50" height="50"/>
+</h1>
+
+![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
+
 <hr>
 <h4>
 <img src="https://user-images.githubusercontent.com/102265620/231878490-608ecccb-061f-476d-a43b-708590d03f8d.png" width="20" height="20"/>
