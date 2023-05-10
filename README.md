@@ -17,19 +17,19 @@ O projeto possui o tema da própria institução Labenu, com a criação de uma 
 </h4>
 <hr>
 <h3>
-<img src="https://user-images.githubusercontent.com/102265620/231886048-8d35264b-8e26-45ae-a01b-3ae70dfbb2c4.png" width="35" height="35" align="center"/>
+<img src="https://github.com/RenatoAlexandrini/LabenuSystem/assets/102265620/7a417c0c-568c-4354-83ad-5060a39cbf2d" width="35" height="35" align="center"/>
 Como Testar
 </h3>
 <h4>
 <img src="https://user-images.githubusercontent.com/102265620/231886670-84bbf853-61da-4e86-9e84-ed339e0869bb.png" width="20" height="20"/> Link da Documentação via Postman:
 <br></br>
-https://documenter.getpostman.com/view/24755055/2s8Z75Spvm
+https://documenter.getpostman.com/view/24755055/2s8YzMXR12
 <br></br>
 - Com o Postman instalado em seu computador, basta abrir a documentação e clicar no botão <img src="https://github.com/RenatoAlexandrini/LabenuSystem/assets/102265620/b4329b29-60d4-4ed4-8f94-0ca08cc866a9" width="170" height="50" align="center"/>  para testar diretamente no Postman.
 <br></br>
 </h4>
 <h4>
-<img src="https://github.com/RenatoAlexandrini/LabenuSystem/assets/102265620/9971d217-4632-474e-9194-9f3e907fcada" width="30" height="30" align="center"/> Para testar localmente:
+<img src="https://github.com/RenatoAlexandrini/LabenuSystem/assets/102265620/5b6a4d1f-c23f-4484-95a6-c13c7e3b93f2" width="30" height="30" align="center"/> Para testar localmente:
 </h4>
 
 ```
@@ -38,7 +38,7 @@ https://documenter.getpostman.com/view/24755055/2s8Z75Spvm
 - npm install
 - npm run migrations
 - npm run start
-- Em cada endpoint, substitua o "https://jemison-labesystem1.onrender.com" por "http://localhost:3003"
+- Em cada endpoint, substitua o "https://projeto-labecommerce-backend-turma.onrender.com" por "http://localhost:3003"
 ```
 <hr>
 
