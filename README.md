@@ -23,7 +23,7 @@ Como Testar
 <h4>
 <img src="https://user-images.githubusercontent.com/102265620/231886670-84bbf853-61da-4e86-9e84-ed339e0869bb.png" width="20" height="20"/> Link da Documentação via Postman:
 <br></br>
-https://documenter.getpostman.com/view/24755055/2s8YzMXR12
+https://documenter.getpostman.com/view/24755055/2s8Z75Spvm
 <br></br>
 - Com o Postman instalado em seu computador, basta abrir a documentação e clicar no botão <img src="https://github.com/RenatoAlexandrini/LabenuSystem/assets/102265620/b4329b29-60d4-4ed4-8f94-0ca08cc866a9" width="170" height="50" align="center"/>  para testar diretamente no Postman.
 <br></br>
