@@ -17,7 +17,7 @@ O projeto possui o tema da própria institução Labenu, com a criação de uma 
 </h4>
 <hr>
 <h3>
-<img src="https://github.com/RenatoAlexandrini/LabenuSystem/assets/102265620/7a417c0c-568c-4354-83ad-5060a39cbf2d" width="35" height="35" align="center"/>
+<img src="https://github.com/RenatoAlexandrini/LabenuSystem/assets/102265620/2f0c090c-3fbb-469e-8924-53fe264b4188" width="35" height="35" align="center"/>
 Como Testar
 </h3>
 <h4>
@@ -29,16 +29,16 @@ https://documenter.getpostman.com/view/24755055/2s8YzMXR12
 <br></br>
 </h4>
 <h4>
-<img src="https://github.com/RenatoAlexandrini/LabenuSystem/assets/102265620/5b6a4d1f-c23f-4484-95a6-c13c7e3b93f2" width="30" height="30" align="center"/> Para testar localmente:
+<img src="https://github.com/RenatoAlexandrini/LabenuSystem/assets/102265620/4a27ebef-e285-431c-86cd-5e21ab74c426" width="30" height="30" align="center"/> Para testar localmente:
 </h4>
 
 ```
 - inicie o Git Bash em uma pasta e digite:
-- git clone https://github.com/RenatoAlexandrini/Projeto-LabEcommerce-Backend
+- git clone https://github.com/RenatoAlexandrini/LabenuSystem
 - npm install
 - npm run migrations
 - npm run start
-- Em cada endpoint, substitua o "https://projeto-labecommerce-backend-turma.onrender.com" por "http://localhost:3003"
+- Em cada endpoint, substitua o "https://jemison-labesystem1.onrender.com" por "http://localhost:3003"
 ```
 <hr>
 
